@@ -17,22 +17,22 @@ import img12 from '../assets/results/12.jpeg';
 import ss1 from '../assets/ss1.jpeg';
 const testimonials = [
   {
-    name: "Kevinson", 
-    location: "Miami, FL", 
+    name: "Kelvison", 
+    location: "Rochester, NY", 
     before: "540", 
     after: "710",
     text: "Carpium changed my life. After 4 months of their dispute process, my score jumped 170 points and I just closed on my first home!",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop",
+    image: "https://instagram.fbaq8-1.fna.fbcdn.net/v/t51.82787-19/621167307_18555345469043183_3612708394798357660_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NzkuYzIifQ&_nc_ht=instagram.fbaq8-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFOc60_AEnTlOvA0jDKa46dmo_2yAZ5ItufMYTzmWG-zBz-7dKmFuibwhlkz0_1FNk&_nc_ohc=0bpnPanJm6UQ7kNvwG5Kr6F&_nc_gid=9tImFAidvYH2vXhNzuZmOA&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af1oWBRRatHpo_nQwIigUvXpRQoDomWp5zKYwuhI7SUpOw&oe=69D367C2&_nc_sid=7d3ac5",
     videoEmbedUrl: "https://www.youtube.com/embed/DkPhnpVZQ8c", // Formato embed para Shorts
     type: "video"
   },
   {
     name: "Marcos Aneudys", 
-    location: "Houston, TX", 
+    location: "Rochester, NY", 
     before: "580", 
     after: "745",
     text: "They removed 8 negative items that I couldn't get off my report for years. Highly recommended for anyone serious about their finances.",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop", // Foto Hombre
+    image: "https://instagram.fbaq8-1.fna.fbcdn.net/v/t51.2885-19/244782529_302071478014625_5094063629034769041_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=instagram.fbaq8-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gG8lsVTuKImMhzMsvI87ZjBG6YK8x606pmjA94Vqp5XNS-1CWUwqLKOWZivBOO9uMA&_nc_ohc=S_JYV_fde8YQ7kNvwHduYaR&_nc_gid=vvB5ZEDWMX3lr2b0jpYAvg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_Af03HNMpjCXa1AYXdTEkAnIYoHrKIjBS8UdIx-JKe0y7Vw&oe=69D361FE&_nc_sid=7d3ac5", // Foto Hombre
     resultImage: ss1, // Mostramos la imagen de resultado aquí
     type: "image"
   }
