@@ -22,7 +22,7 @@ const testimonials = [
     before: "540", 
     after: "710",
     text: "Carpium changed my life. After 4 months of their dispute process, my score jumped 170 points and I just closed on my first home!",
-    image: "https://res.cloudinary.com/dziwyqnqk/image/upload/v1775083839/621167307_18555345469043183_3612708394798357660_n_jutlux.jpg",
+    image: "https://res.cloudinary.com/dziwyqnqk/image/upload/v1775083831/244782529_302071478014625_5094063629034769041_n_bmfbkj.jpg",
     videoEmbedUrl: "https://www.youtube.com/embed/DkPhnpVZQ8c", // Formato embed para Shorts
     type: "video"
   },
@@ -32,7 +32,7 @@ const testimonials = [
     before: "580", 
     after: "745",
     text: "They removed 8 negative items that I couldn't get off my report for years. Highly recommended for anyone serious about their finances.",
-    image: "https://res.cloudinary.com/dziwyqnqk/image/upload/v1775083831/244782529_302071478014625_5094063629034769041_n_bmfbkj.jpg", // Foto Hombre
+    image: "https://res.cloudinary.com/dziwyqnqk/image/upload/v1775083839/621167307_18555345469043183_3612708394798357660_n_jutlux.jpg", // Foto Hombre
     resultImage: ss1, // Mostramos la imagen de resultado aquí
     type: "image"
   }
