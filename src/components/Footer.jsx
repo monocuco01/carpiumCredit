@@ -15,7 +15,7 @@ const Footer = () => {
           {/* Lado Izquierdo: Marca y Propuesta */}
           <div className="md:col-span-2 space-y-5 text-left">
             <h4 className="text-3xl font-black text-white uppercase tracking-tighter">
-              Carpium<span className="text-[#E5C100]">Elite</span>
+              Carpium<span className="text-[#E5C100]">Credit</span>
             </h4>
             <p className="text-gray-500 text-sm leading-relaxed max-w-sm italic">
               "Dedicated to repairing your credit history and unlocking the financial opportunities you deserve through professional, personalized elite solutions."
